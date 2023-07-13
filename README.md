@@ -1,2 +1,2 @@
-# codeditor
+# CodEditor
 Text editor
